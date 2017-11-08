@@ -1,1 +1,2 @@
-This is where the code for CW2 will be. You should fork this project, and then work on your version.
+## Space Invaders
+A space invaders clone. Assets used in the game can be found [here](http://gooperblooper22.deviantart.com/art/Space-Invaders-Sprite-Sheet-135338373).
