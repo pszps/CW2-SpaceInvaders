@@ -24,3 +24,4 @@ public class LaserBeamControl extends Control {
         }
     }
 }
+// change
